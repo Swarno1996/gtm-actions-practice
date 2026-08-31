@@ -1,0 +1,5 @@
+name,work_email,company_website
+Thyssenkrupp test lead,test.lead@thyssenkrupp.com,thyssenkrupp.com
+REWE Group test lead,test.lead@rewe-group.com,https://www.rewe-group.com
+GitHub test lead,test.lead@github.com,github.com
+Dead domain test lead,test.lead@this-domain-does-not-exist-12345.example,this-domain-does-not-exist-12345.example
