@@ -1,0 +1,3 @@
+lead_id,processed_at,name,work_email,normalized_url,reason
+2e8be1ff80,2026-08-31T18:58:08+00:00,Thyssenkrupp test lead,test.lead@thyssenkrupp.com,https://thyssenkrupp.com,"target industry, size signal"
+797970e9cf,2026-08-31T18:58:08+00:00,GitHub test lead,test.lead@github.com,https://github.com,target industry

@@ -1,0 +1,5 @@
+lead_id,processed_at,name,work_email,company_website,normalized_url,fetch_status,rule_score,llm_score,tier,reason
+2e8be1ff80,2026-08-31T18:58:08+00:00,Thyssenkrupp test lead,test.lead@thyssenkrupp.com,thyssenkrupp.com,https://thyssenkrupp.com,http 200,3,,B,"target industry, size signal"
+ce12721611,2026-08-31T18:58:08+00:00,REWE Group test lead,test.lead@rewe-group.com,https://www.rewe-group.com,https://www.rewe-group.com,http 403,0,,C,homepage unreachable (http 403)
+797970e9cf,2026-08-31T18:58:08+00:00,GitHub test lead,test.lead@github.com,github.com,https://github.com,http 200,2,,B,target industry
+835975944c,2026-08-31T18:58:08+00:00,Dead domain test lead,test.lead@this-domain-does-not-exist-12345.example,this-domain-does-not-exist-12345.example,https://this-domain-does-not-exist-12345.example,error: ConnectionError,0,,C,homepage unreachable (error: ConnectionError)
