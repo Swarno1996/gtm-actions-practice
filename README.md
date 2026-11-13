@@ -1,6 +1,6 @@
 # GTM automation practice: a Python script on a GitHub Actions cron
 
-You are rebuilding the n8n lead demo as plain Python that GitHub runs for you on a schedule. Same pipeline, different runner. By the end you will have created a repo, pushed code, stored a secret, triggered a workflow by hand, watched a cron fire, read the logs, and broken it on purpose to see the alerting work.
+You are building the n8n lead demo as plain Python that GitHub runs for you on a schedule. Same pipeline, different runner. By the end you will have created a repo, pushed code, stored a secret, triggered a workflow by hand, watched a cron fire, read the logs, and broken it on purpose to see the alerting work.
 
 ## 0. What you are building
 
